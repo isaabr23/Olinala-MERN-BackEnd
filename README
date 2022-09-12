@@ -1,0 +1,5 @@
+# npm i mongoose
+# npm i express-validator
+# npm i dotenv
+# npm i express
+# npm nodemon -g
